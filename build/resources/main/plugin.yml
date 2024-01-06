@@ -1,0 +1,5 @@
+name: chatDisplay
+version: '1.0-SNAPSHOT'
+main: com.yong.chatdisplay.ChatDisplay
+api-version: '1.20'
+description: 'Chat With Display'
